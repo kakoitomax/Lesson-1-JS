@@ -36,4 +36,4 @@ console.log (secondsInMin * minInHour * hours)
     document.write ("<br />");
 /* 5 Task */
     var name = "Max";
-    document.write (name = "Hello Max!");
+    document.write ("Hello " + name + "!");
